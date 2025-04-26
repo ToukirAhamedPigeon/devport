@@ -40,5 +40,11 @@ Packages Used
 1. Aceternity UI
     1.1 Spotlight
     1.2 Grid and Dotted Background
+    1.3 Text Generate Effect
+    1.4 Floating Navbar
+    1.5 Bento Grid
+    1.6 Gradients X Animations
+    1.7 Globe
 2. Next Themes
-3 Shadcn Theme Provider
+3. Shadcn Theme Provider
+4. React Icons
