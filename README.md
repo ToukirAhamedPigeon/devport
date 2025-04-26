@@ -1,92 +1,36 @@
-<p align="center"> <img src="https://skillicons.dev/icons?i=nextjs,tailwind,vercel,github,react,framer,typescript" alt="Tech Stack" /> </p>
-A modern, blazing-fast, SEO-optimized, and fully animated developer portfolio built with:
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-Next.js 14 App Router
+## Getting Started
 
-Tailwind CSS + Shadcn/UI
+First, run the development server:
 
-Framer Motion for super-smooth animations
-
-CI/CD with GitHub + Vercel
-
-Sentry for analytics and visitor tracking
-
-Fully SEO Friendly with OG meta, sitemap, structured data
-
-Highly Accessible, responsive and mobile-ready
-
-Deployed to Vercel with zero config
-
-Tech | Description
-🧠 Next.js 14 | React framework with App Router
-💅 Tailwind CSS | Utility-first styling
-🧩 Shadcn UI | Beautiful, accessible UI components
-🎞 Framer Motion | Animations and transitions
-🧠 Sentry | Error monitoring + visitor tracking
-🚀 Vercel | Fast global deployment
-🧪 Jest / Vitest | Optional testing setup
-
-📸 Preview
-Insert a screenshot or live demo link here
-Example: Live Preview →
-
-/app
-  /about
-  /projects
-  /blog
-  /contact
-  layout.tsx
-  page.tsx
-/components
-/lib
-/public
-/styles
-
-# Clone the repo
-git clone https://github.com/yourname/devport.git
-cd devport
-
-# Install dependencies
-pnpm install
-
-# Run in dev
+```bash
+npm run dev
+# or
+yarn dev
+# or
 pnpm dev
+# or
+bun dev
+```
 
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-# Production build
-pnpm build
-pnpm start
-Deployed via Vercel.
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-🛡 SEO + Analytics
-generateMetadata for dynamic SEO
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-Structured data (JSON-LD)
+## Learn More
 
-OG tags, Twitter meta
+To learn more about Next.js, take a look at the following resources:
 
-Sitemap and robots.txt
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-Google Analytics / Sentry
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-🧠 Keywords
-nextjs portfolio, developer portfolio, animated portfolio, framer motion nextjs, shadcn ui, seo portfolio, tailwind css dev site, personal developer site, nextjs 14 app router, sentry analytics, vercel portfolio, open graph, json-ld, super smooth animation, devport, ci cd github vercel, modern portfolio
+## Deploy on Vercel
 
-📸 Screenshots & Demos
-Include:
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Homepage
-
-Projects
-
-Blog (if any)
-
-Contact page
-
-Light/Dark modes
-
-🙌 Contributing
-Contributions are welcome! Fork, create a PR, and improve the dev world 🌍
-
-📄 License
-MIT License
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
