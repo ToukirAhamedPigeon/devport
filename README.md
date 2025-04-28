@@ -45,6 +45,7 @@ Packages Used
     1.5 Bento Grid
     1.6 Gradients X Animations
     1.7 Globe
+    1.8 3d Animated Pin
 2. Next Themes
 3. Shadcn Theme Provider
 4. React Icons
