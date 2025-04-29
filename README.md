@@ -49,3 +49,7 @@ Packages Used
 2. Next Themes
 3. Shadcn Theme Provider
 4. React Icons
+5. Sentry
+    5.1 Sentry Project Install
+    5.2 Project Errors, visitors and Performence Tracking
+    5.3 User Bug Reporting Feature 
